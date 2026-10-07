@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Video2Photo</string>
+    <string name="app_tagline">Photo Slideshow Video Maker</string>
+    <string name="home_description">Automatically turn your video into a photo video while keeping the original audio.</string>
+    <string name="btn_upload_video">Upload Video</string>
+    <string name="btn_my_projects">My Projects</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_create_video">Create Video</string>
+    <string name="btn_save_gallery">Save to Gallery</string>
+    <string name="btn_share">Share Video</string>
+    <string name="btn_create_again">Create Again</string>
+    <string name="label_video_duration">Video Duration</string>
+    <string name="label_screenshot_interval">Screenshot Interval</string>
+    <string name="label_estimated_screenshots">Estimated Screenshots</string>
+    <string name="label_original_audio">Original Audio</string>
+    <string name="label_output_quality">Output Quality</string>
+    <string name="status_original_audio_preserved">Original Audio Preserved</string>
+    <string name="step_analyzing">Analyzing video...</string>
+    <string name="step_calculating">Calculating screenshots...</string>
+    <string name="step_extracting">Extracting frames...</string>
+    <string name="step_creating_video">Creating photo video...</string>
+    <string name="step_adding_audio">Adding original audio...</string>
+    <string name="step_finalizing">Finalizing video...</string>
+</resources>

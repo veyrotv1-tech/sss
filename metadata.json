@@ -1,0 +1,6 @@
+{
+  "name": "Video2Photo",
+  "description": "Automatically turn your video into a photo video while keeping the original audio synchronized.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
